@@ -10,7 +10,11 @@ Ingredients:
  - 3/4 cup vegetable oil
  - 2 teaspoons vanilla extract
  - 1 cup boiling water
+<<<<<<< HEAD
  - putting some air into the cup
+=======
+ - keep still for few hours
+>>>>>>> origin/master
 
 Directions:
  1. Preheat oven to 350 degrees F. Grease and flour two 9-inch round baking
